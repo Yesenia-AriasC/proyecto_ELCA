@@ -1,5 +1,5 @@
 # Título del proyecto: 
-Análisis de la relación entre la situación laboral de las mujeres y las variables sociodemográficas en Colombia utilizando los datos de la ronda 3 de la ELCA.
+Análisis de la relación entre la situación laboral de las mujeres y las variables sociodemográficas en Colombia utilizando los datos de la ronda 3 de la [ELCA](https://encuestalongitudinal.uniandes.edu.co/es/elca/que-es-la-elca).
 
 # Resumen: 
 Este proyecto de investigación tiene como objetivo analizar la relación entre la situación laboral de las mujeres y las variables sociodemográficas en Colombia utilizando los datos de la ronda 3 de la Encuesta Longitudinal de la Dinámica de las Familias (ELCA). Se empleará estadística descriptiva multivariada y técnicas de inferencia para identificar las variables que influyen en la situación laboral de las mujeres y cómo difieren estas relaciones en diferentes regiones y zonas del país.
