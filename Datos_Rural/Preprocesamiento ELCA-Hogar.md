@@ -1,0 +1,97 @@
+## Características de la vivienda actual
+- 104 ¿Con cuáles de los siguientes servicios públicos o comunales cuenta la vivienda?
+  -  Variable: h. Servicio de Internet
+  -  Categorías: sí, no
+- 104a Según el recibo de energía eléctrica ¿Cuál es el estrato de esta vivienda?
+  - Variable: Estrato
+  - Categorías: 0,1,2,3,4,5,6
+- 115 La vivienda que ocupa actualmente este hogar es:
+  - Variable: Propiedad sobre la vivienda
+  - Categorías
+    - Propia, totalmente pagada
+    - Propia, la están pagando
+    - En arriendo o subarriendo
+    - En usufructuo y otro tipo de viviendas
+    - Ocupante de hecho
+- 117: ¿Cuánto pagan mensualmente de arriendo por esta vivienda?
+  - Variable: Precio del arriendo
+  - Categorías:
+    - No paga
+    - Definir intervalos según el análisis descriptivo de las respuestas
+- 119-120: ¿En este hogar profesan alguna religión? ¿Cuál o cuáles?
+  - Variable: Religión que profesa
+  - Categorías:
+    - Ninguna
+    - Católica
+    - Protestante tradicional o protestante no evangélico
+    - Evangélica y Pentecostal
+    - Religiones orientales no cristianas
+    - Iglesia de los Santos de los Últimos Días
+    - Religiones Tradicionales
+    - Judío
+    - Testigos de Jehová
+    - Ateo
+    - Otro
+## Ingresos del hogar
+- 317: Normalmente ¿A cuánto ascienten los ingresos mensuales de este hogar por concepto de Trabajos o empleos no agropecuarios?
+  - Variable: Ingresos obtenidos por esta actividad
+	  - Categorías: Definir intervalos según el análisis descriptivo de la variable
+- 317: Normalmente ¿A cuánto ascienten los ingresos mensuales de este hogar por concepto de Trabajos o empleos agropecuarios?
+  - Variable: Ingresos obtenidos por esta actividad
+  - Categorías: Definir intervalos según el análisis descriptivo de la variable
+- 317: Normalmente ¿A cuánto ascienten los ingresos mensuales de este hogar por concepto de Pensiones?
+  - Variable: Ingresos obtenidos por esta actividad
+  - Categorías: Definir intervalos según el análisis descriptivo de la variable
+  - 317: Normalmente ¿A cuánto ascienten los ingresos mensuales de este hogar por concepto de Arriendos?
+  - Variable: Ingresos obtenidos por esta actividad
+  - Categorías: Definir intervalos según el análisis descriptivo de la variable
+- 317: Normalmente ¿A cuánto ascienten los ingresos mensuales de este hogar por concepto de Intereses o dividendos?
+- Variable: Ingresos obtenidos por esta actividad
+- Categorías: Definir intervalos según el análisis descriptivo de la variable
+ - 317: Normalmente ¿A cuánto ascienten los ingresos mensuales de este hogar por concepto de Ayudas en dinero?
+  - Variable: Ingresos obtenidos por esta actividad
+  - Categorías: Definir intervalos según el análisis descriptivo de la variable
+ - 317: Normalmente ¿A cuánto ascienten los ingresos mensuales de este hogar por concepto de Otros ingresos?
+  - Variable: Ingresos obtenidos por esta actividad
+  - Categorías: Definir intervalos según el análisis descriptivo de la variable
+## Gastos anuales del hogar
+ - 406-407: En total, ¿A cuánto ascienden los gastos mensuales de este hogar(incluyendo los alimentos)?, En total, ¿A cuánto ascienden los gastos mensuales de este hogar en alimentos?:
+   Para el preprocesamiento de esta variable, restar a la respuesta 406 el valor de la respuesta de la 407 para diferenciar gastos en alimentos de gastos en no alimentos
+   - Variables: Gastos en cosas diferentes a alimentos, Gastos en alimentos
+   - Categorías: Definir intervalos según el análisis descriptivo
+## Retraso en pagos
+- 523: Actualmente, ¿los miembros de este hogar tienen algún retraso en pagos con...?
+  Se presentan las siguentes opciones y se marca si sí o si no. A partir de las opciones se propone tomar dos categorías (esenciales y no esenciales).
+  - Opciones:
+    - Empresas de servicios públicos (esencial)
+    - Empresa o instituciones de salud (esencial)
+    - Instituciones educativas (esencial)
+    - Arrendadores (esencial)
+    - Compras por catálogo (no esencial)
+    - Tiendas de la vereda o cabecera municipal (no esencial)
+    - Entidades financieras (no esencial)
+- Variable: Tiene retraso en pago en
+- Categorías:
+  - No tiene retraso
+  - Esenciales
+  - No esenciales
+## Eventos que desestabilizaron al hogar durante los últimos 3 años
+- 601: Durante los últimos 3 años, ¿cuáles de los siguientes problemas se han presentado en este hogar?
+  Sobre cada una de las siguientes opciones se pregunta si tuvo o no impacto y en caso de tenerlo, si el impacto fue bajo, medio o alto. Se escogen las siguientes opciones para evaluar, recategorizándo para que en caso que no tenga impacto, la categoría sea ninguno
+  - Opciones: 
+    - Accidente o enfermedad de algún miembro del hogar que le impidió realizar sus actividades cotidianas
+    - Muerte del que era jefe del hogar o del cónyuge
+    - Separación de los cónyuges
+    - El jefe del hogar perdió su empleo
+    - El cónyugue perdió su empleo
+    - Tuvieron que abandonar su lugar de residencia actual
+    - Quiebras y/o cierres del (los) negocio(s) familiar(es)
+    - Robo, incendio o destrucción de bienes del hogar
+    - Sufrieron inundaciones, avalanchas, derrumbes, desbordamientos o deslizamientos o vendavales
+    - Fueron víctimas de la violencia
+- Variable: Impacto que le generó el evento (10 variables en total)
+- Categorías: 
+  - Ninguno
+  - Bajo
+  - Medio
+  - Alto
