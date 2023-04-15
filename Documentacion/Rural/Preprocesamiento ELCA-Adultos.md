@@ -93,6 +93,8 @@
 - 304-305: ¿En qué fecha nacieron lxs hijxs?
   - Variable: Edad de lxs hijxs (tantas variables como número de hijxs)
   - Categorías: Traducir la fecha a edad y definir una variable categórica se´gun el período etareo (primera infancia, segunda infancia, ...)
+  **Esta no la considero relevante**
+  
 - 307: ¿Qué edad tenía cuando tuvo su primer hijx nacidx vivx?
   - Variable: Edad que tenía
   - Categorías: Definir intervalos según análisis descriptivo y etapa de la vida
@@ -131,7 +133,7 @@
     - Por desastre natural
     - Por falta de apoyo de los padres o por descuido
     - Otra
-- 406: ¿Cuál es el niver educativo más alto alcanzado y el útlimo grado aprobado?
+- 406: ¿Cuál es el nivel educativo más alto alcanzado y el útlimo grado aprobado?
   - Variable: Nivel Educativo
   - Categorías:
     - Ninguno
