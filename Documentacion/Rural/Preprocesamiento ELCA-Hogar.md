@@ -119,7 +119,7 @@
     - Ateo
     - Otro
 
-## *II. INFORMACIÓN DE TODAS LAS PERSONAS DEL HOGAR
+## *II. Información de todas las personas en el Hogar
 
 - *209. ¿Qué edad tiene?
 - *210. Sexo 
