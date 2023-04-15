@@ -85,7 +85,7 @@
 	- Electricidad
 	- Gas natural conectado a red pública
 	- Gas propano (en cilindro o pipeta)
-	- Kerosene, petróleo, gasolina, cocinol, alcoho
+	- Kerosene, petróleo, gasolina, cocinol, alcohol
 	- Leña, madera, carbón de leña
 	- Carbón mineral
 	- Material de desecho
@@ -168,28 +168,28 @@
 	- Oportunidades rurales 1. Si, 2. No
 	- Alianzas productivas 1. Si, 2. No
 	- Familias Guardabosques 1. Si, 2. No
-	- Otros programas de desarrollo rura 1. Si, 2. No
+	- Otros programas de desarrollo rural 1. Si, 2. No
 	- Otro, ¿Cuál? 1. Si, 2. No
 
-- 317: Normalmente ¿A cuánto ascienten los ingresos mensuales de este hogar por concepto de Trabajos o empleos no agropecuarios?
+- 317: Normalmente ¿A cuánto ascienden los ingresos mensuales de este hogar por concepto de Trabajos o empleos no agropecuarios?
   - Variable: Ingresos obtenidos por esta actividad
 	  - Categorías: Definir intervalos según el análisis descriptivo de la variable
-- 317: Normalmente ¿A cuánto ascienten los ingresos mensuales de este hogar por concepto de Trabajos o empleos agropecuarios?
+- 317: Normalmente ¿A cuánto ascienden los ingresos mensuales de este hogar por concepto de Trabajos o empleos agropecuarios?
   - Variable: Ingresos obtenidos por esta actividad
   - Categorías: Definir intervalos según el análisis descriptivo de la variable
-- 317: Normalmente ¿A cuánto ascienten los ingresos mensuales de este hogar por concepto de Pensiones?
+- 317: Normalmente ¿A cuánto ascienden los ingresos mensuales de este hogar por concepto de Pensiones?
   - Variable: Ingresos obtenidos por esta actividad
   - Categorías: Definir intervalos según el análisis descriptivo de la variable
-  - 317: Normalmente ¿A cuánto ascienten los ingresos mensuales de este hogar por concepto de Arriendos?
+  - 317: Normalmente ¿A cuánto ascienden los ingresos mensuales de este hogar por concepto de Arriendos?
   - Variable: Ingresos obtenidos por esta actividad
   - Categorías: Definir intervalos según el análisis descriptivo de la variable
-- 317: Normalmente ¿A cuánto ascienten los ingresos mensuales de este hogar por concepto de Intereses o dividendos?
+- 317: Normalmente ¿A cuánto ascienden los ingresos mensuales de este hogar por concepto de Intereses o dividendos?
 - Variable: Ingresos obtenidos por esta actividad
 - Categorías: Definir intervalos según el análisis descriptivo de la variable
- - 317: Normalmente ¿A cuánto ascienten los ingresos mensuales de este hogar por concepto de Ayudas en dinero?
+ - 317: Normalmente ¿A cuánto ascienden los ingresos mensuales de este hogar por concepto de Ayudas en dinero?
   - Variable: Ingresos obtenidos por esta actividad
   - Categorías: Definir intervalos según el análisis descriptivo de la variable
- - 317: Normalmente ¿A cuánto ascienten los ingresos mensuales de este hogar por concepto de Otros ingresos?
+ - 317: Normalmente ¿A cuánto ascienden los ingresos mensuales de este hogar por concepto de Otros ingresos?
   - Variable: Ingresos obtenidos por esta actividad
   - Categorías: Definir intervalos según el análisis descriptivo de la variable
 ## Gastos anuales del hogar
@@ -200,7 +200,7 @@
    
 ## Retraso en pagos
 - 523: Actualmente, ¿los miembros de este hogar tienen algún retraso en pagos con...?
-  Se presentan las siguentes opciones y se marca si sí o si no. A partir de las opciones se propone tomar dos categorías (esenciales y no esenciales).
+  Se presentan las siguientes opciones y se marca si sí o si no. A partir de las opciones se propone tomar dos categorías (esenciales y no esenciales).
   - Opciones:
     - Empresas de servicios públicos (esencial)
     - Empresa o instituciones de salud (esencial)
@@ -215,14 +215,14 @@
   - Esenciales
   - No esenciales
 ## Eventos que desestabilizaron al hogar durante los últimos 3 años
-- 601: Durante los últimos 3 años, ¿cuáles de los siguientes problemas se han presentado en este hogar?
-  Sobre cada una de las siguientes opciones se pregunta si tuvo o no impacto y en caso de tenerlo, si el impacto fue bajo, medio o alto. Se escogen las siguientes opciones para evaluar, recategorizándo para que en caso que no tenga impacto, la categoría sea ninguno
+- 601: Durante los últimos 3 años, ¿Cuáles de los siguientes problemas se han presentado en este hogar?
+  Sobre cada una de las siguientes opciones se pregunta si tuvo o no impacto y en caso de tenerlo, si el impacto fue bajo, medio o alto. Se escogen las siguientes opciones para evaluar, recategorizando para que en caso que no tenga impacto, la categoría sea ninguno
   - Opciones: 
     - Accidente o enfermedad de algún miembro del hogar que le impidió realizar sus actividades cotidianas
     - Muerte del que era jefe del hogar o del cónyuge
     - Separación de los cónyuges
     - El jefe del hogar perdió su empleo
-    - El cónyugue perdió su empleo
+    - El cónyuge perdió su empleo
     - Tuvieron que abandonar su lugar de residencia actual
     - Quiebras y/o cierres del (los) negocio(s) familiar(es)
     - Robo, incendio o destrucción de bienes del hogar
