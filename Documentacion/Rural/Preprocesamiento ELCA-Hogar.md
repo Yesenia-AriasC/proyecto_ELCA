@@ -62,14 +62,14 @@
 
 - *108. ¿En cuántos de esos cuartos duermen las personas de este hogar?
 
-*- 109. ¿Con qué tipo de servicio sanitario cuenta este hogar?
+- *109. ¿Con qué tipo de servicio sanitario cuenta este hogar?
 	- Inodoro conectado a alcantarillado
 	- Inodoro conectado a pozo séptico Inodoro sin conexión 
 	- Letrina
 	- Bajamar
 	- No tiene servicio sanitario
 
-*- 110. El agua para beber y preparar los alimentos la obtienen principalmente de:
+- *110. El agua para beber y preparar los alimentos la obtienen principalmente de:
 	- Acueducto público
 	- Acueducto comunal o veredal
 	- Pozo con bomba
@@ -81,7 +81,7 @@
 	- Aguatero
 	- Otra fuente (botella, bolsa, etc.)
 
-*- 114. ¿Qué tipo de energía o combustible utilizan PRINCIPALMENTE para cocinar en este hogar? 
+- *114. ¿Qué tipo de energía o combustible utilizan PRINCIPALMENTE para cocinar en este hogar? 
 	- Electricidad
 	- Gas natural conectado a red pública
 	- Gas propano (en cilindro o pipeta)
@@ -90,13 +90,6 @@
 	- Carbón mineral
 	- Material de desecho
 	- No prepara alimentos
-
- *- 115. La vivienda que ocupa actualmente este hogar es:
-	- Propia, totalmente pagada
-	- Propia, la están pagando 
-	- En arriendo o subarriendo 
-	- En usufructo u otro tipo de tenencia 
-	- Ocupante de hecho
 
 - 115 La vivienda que ocupa actualmente este hogar es:
   - Variable: Propiedad sobre la vivienda
