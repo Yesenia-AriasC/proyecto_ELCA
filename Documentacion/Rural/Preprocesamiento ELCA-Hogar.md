@@ -1,15 +1,16 @@
 ## Control operativo
+
 - *1 Departamento y municipio 
 
 - *2a Zona 
   - *Centro Poblado
   - *Rural Disperso
   
-- 2 Vereda 
+- *2 Vereda 
 
-- 4 Total hogares en la vivienda  
+- *4 Total hogares en la vivienda  
 
-- 6. Número de personas en el hogar: 
+- *6. Número de personas en el hogar: 
 
 
 ## Características de la vivienda actual
