@@ -1,27 +1,27 @@
 ## Control operativo
 
-- 1 Departamento y municipio 
+- 1: Departamento y municipio 
 
-- 2a Zona 
-  - *Centro Poblado
-  - *Rural Disperso
+- 2a: Zona 
+  - Centro Poblado
+  - Rural Disperso
   
-- 2 Vereda 
+- 2: Vereda 
 
-- 4 Total hogares en la vivienda  
+- 4: Total hogares en la vivienda  
 
-- 6. Número de personas en el hogar: 
+- 6: Número de personas en el hogar: 
 
 
 ## Características de la vivienda actual
-- 101.  Tipo de vivienda 
+- 101:  Tipo de vivienda 
 	- Casa
 	- Apartamento
 	- Cuarto
 	- Otro tipo de unidad de vivienda (carpa, tienda, vagón, embarcación, refugio natural, puente, etc.) 
 	- Casa indígena
 
-- 102. Material predominante de las paredes exteriores 
+- 102: Material predominante de las paredes exteriores 
 	- Bloque, ladrillo, piedra, madera pulida
 	- Tapia pisada, adobe
 	- Bahareque
@@ -31,7 +31,7 @@
 	- Zinc, tela, cartón, latas, desechos, plásticos
 	- Sin paredes
 
-- 103. Material predominante de los pisos 
+- 103: Material predominante de los pisos 
 	- Alfombra, mármol, parqué, madera pulida 
 	- Baldosa, vinilo, tableta o ladrillo
 	- Cemento, gravilla
@@ -39,7 +39,7 @@
 	- Tierra o arena
 	- Otro
 
-- 104. ¿Con cuáles de los siguientes servicios públicos o comunales cuenta la vivienda?
+- 104: ¿Con cuáles de los siguientes servicios públicos o comunales cuenta la vivienda?
 	- a. Energía eléctrica   1. Si, 2. No
 	- b. Gas natural conectado a red pública  1. Si, 2. No
 	- c. Acueducto  1. Si, 2. No
@@ -49,23 +49,23 @@
 	- g. Servicio de televisión por cable, parabólica o satelital  1. Si, 2. No
 	- h. Servicio de internet  1. Si, 2. No*
 
-- 104.a Según el recibo de energía eléctrica, ¿cuál es el estrato de esta vivienda? 
+- 104.a: Según el recibo de energía eléctrica, ¿cuál es el estrato de esta vivienda? 
    0   1   2   3   4   5   6
 
-- 106. ¿Cuántos grupos de personas (hogares) preparan los alimentos por separado en esta vivienda? 
+- 106: ¿Cuántos grupos de personas (hogares) preparan los alimentos por separado en esta vivienda? 
 
-- 107. Incluyendo sala y comedor, ¿de cuántos cuartos o piezas dispone este hogar de manera exclusiva? (excluir cocina, baños, garajes y cuartos dedicados a negocios) 
+- 107: Incluyendo sala y comedor, ¿de cuántos cuartos o piezas dispone este hogar de manera exclusiva? (excluir cocina, baños, garajes y cuartos dedicados a negocios) 
 
-- 108. ¿En cuántos de esos cuartos duermen las personas de este hogar?
+- 108: ¿En cuántos de esos cuartos duermen las personas de este hogar?
 
-- 109. ¿Con qué tipo de servicio sanitario cuenta este hogar?
+- 109: ¿Con qué tipo de servicio sanitario cuenta este hogar?
 	- Inodoro conectado a alcantarillado
 	- Inodoro conectado a pozo séptico Inodoro sin conexión 
 	- Letrina
 	- Bajamar
 	- No tiene servicio sanitario
 
-- 110. El agua para beber y preparar los alimentos la obtienen principalmente de:
+- 110: El agua para beber y preparar los alimentos la obtienen principalmente de:
 	- Acueducto público
 	- Acueducto comunal o veredal
 	- Pozo con bomba
@@ -77,7 +77,7 @@
 	- Aguatero
 	- Otra fuente (botella, bolsa, etc.)
 
-- 114. ¿Qué tipo de energía o combustible utilizan PRINCIPALMENTE para cocinar en este hogar? 
+- 114: ¿Qué tipo de energía o combustible utilizan PRINCIPALMENTE para cocinar en este hogar? 
 	- Electricidad
 	- Gas natural conectado a red pública
 	- Gas propano (en cilindro o pipeta)
@@ -87,7 +87,7 @@
 	- Material de desecho
 	- No prepara alimentos
 
-- 115 La vivienda que ocupa actualmente este hogar es:
+- 115: La vivienda que ocupa actualmente este hogar es:
   - Variable: Propiedad sobre la vivienda
   - Categorías
     - Propia, totalmente pagada
@@ -115,29 +115,29 @@
     - Ateo
     - Otro
 
-## II. Información de todas las personas en el Hogar
+## II: Información de todas las personas en el Hogar
 
-- 209. ¿Qué edad tiene?
-- 210. Sexo 
+- 209: ¿Qué edad tiene?
+- 210: Sexo 
 	- Hombre
 	- Mujer
 
-- 211. Sólo para mujeres de 11 a 49 años ¿Está embarazada ?
+- 211: Sólo para mujeres de 11 a 49 años ¿Está embarazada ?
 	- Si
 	- No
 
-- 213. Estado civil. 
+- 213: Estado civil. 
  	- En unión libre 
  	- Casado 
  	- Separado(a) o divorciado(a) 
  	- Viudo(a)
  	- Soltero(a)
 
-- 214. ¿El (la) cónyuge o compañero(a) permanente de … vive en este hogar? 
+- 214: ¿El (la) cónyuge o compañero(a) permanente de … vive en este hogar? 
 	- Si
 	- No
 
-- 217. ¿A cuál de los siguientes grupos étnicos considera que pertenece …?
+- 217: ¿A cuál de los siguientes grupos étnicos considera que pertenece …?
  	- Indígena 
  	- ROM o gitano
  	-  Raizal del archipiélago 
@@ -148,7 +148,7 @@
  	-    Ninguno de los anteriores
  	
 ## Ingresos del hogar
-- 303.  Durante los ÚLTIMOS 12 MESES, ¿este hogar recibió o fue beneficiario de alguno de los siguientes programas?
+- 303:  Durante los ÚLTIMOS 12 MESES, ¿este hogar recibió o fue beneficiario de alguno de los siguientes programas?
 	- Familias en Acción 1. Si, 2. No
 	- Programas para el adulto mayor  1. Si, 2. No
 	- Programas de formación del SENA  1. Si, 2. No
