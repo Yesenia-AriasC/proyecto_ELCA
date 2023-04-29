@@ -1,0 +1,227 @@
+
+## Variable respuesta
+- 501:La semana pasada...
+  - Variable: Condición laboral
+  - Categorías:
+    - Trabajó por lo menos una hora en una actividad que le generó algún ingreso
+    - Trabajó como ayudante familiar sin que le pagaran por lo menos una hora
+    - No trabajó pero tenía un empleo o trabajo por el que recibe ingresos
+    - Trabajó por lo menos una hora y buscó trabajo
+    - Es incapacitado permanente para trabajar
+    - Ninguna de las anteriores
+## Variables Activas
+- 2d: Sexo
+  - Variable: Sexo
+  - Categorías: 
+    - Hombre
+    - Mujer
+- 101: Actualmente, ¿Está afilliado(a), es cotizante o es beneficiario(a) de alguna entidad de Seguridad Social en Salud?
+  - Variable: Cuenta con seguridad social
+  - Categorías: Sí, No
+- 106: ¿Está cotizando a un fondo de pensiones? 
+  - Variable: Cotiza a un fondo de pensiones
+  - Categorías: Sí/ No
+- 303: ¿Cuántos hijxs nacidos vivos tiene o ha tenido?
+  - Variable: Número de hijxs vivxs
+  - Categorías: Número de hijos (sumar número de hombres y mujeres)  
+- 307: ¿Qué edad tenía cuando tuvo su primer hijx nacidx vivx?
+  - Variable: Edad que tenía
+  - Categorías: Definir intervalos según análisis descriptivo y etapa de la vida
+- 402. ¿Actualmente estudia?(Asiste a la escuela, colegio o universidad):
+  - Variable: Estudia
+  - Categorías: Sí/No
+- 406: ¿Cuál es el nivel educativo más alto alcanzado y el útlimo grado aprobado?
+  - Variable: Nivel Educativo
+  - Categorías:
+    - Ninguno
+    - Pre-escolar
+    - Básica Primaria (1-5)
+    - Básica secundaria y media (6-13)
+    - Técnico (sin título,con título)
+    - Tecnológico (sin título,con título)
+    - Universitario (sin título,con título)
+    - Posgrado (sin título,con título)
+- 502:  Señale la casilla del 1 al 12 en la que se encuentra el ingreso generado por todas sus actividades del mes pasado
+  - Variable: Ingresos
+  - Categorías:
+    - 0-50000
+    - 50001-100 000
+    - 100001-200 000
+    - 200001-300 000
+    - 300001-400 000
+    - 400001-500 000
+    - 500001-600 000
+    - 600001-750000
+    - 750001-900 000
+    - 900 001- 1 000 000
+    - 1 000 001- 3 000 000
+    - Más de 3 000 000
+- 504: ¿Cuántas actividades que le generaron ingresos realizó la semana pasada en total?
+  - Variables: Número de actividades
+  - Categorías: 0,1,2,3,4,5,6
+- 510: En este trabajo es...
+  - Variable: Tipo de trabajador
+  - Categorías:
+    - Asalariado (Asalariado de empresa particular, Asalariado del gobierno)
+    - Jornalero o peón en fincas que no son del hogar
+    - Empleadx doméstico
+    - Trabajador (Por cuenta propia, de su propia finca)
+    - Patrón o empleador
+- 905-906-907: Durante los últimos 3 años, ¿Ha vivido de forma temporal por lo menos 6 meses consecutivos en otro municipio, país, vereda o en el mismo municipio pero en la cabecera municipal?
+  - Variable: Ha vivido por lo menos 6 meses en otro lugar
+  - Categorías: Sí, No
+
+## Variables Pasivas
+
+- 2b: ¿La persona es...?
+  - Variable: La persona es...
+  - Categorías:
+    - Jefe de hogar
+    - Cónyuge
+- 2c: Edad en años cumplidos
+  - Variable: Edad
+  - Categorías: Definir intervalos según el análisis descriptivo
+- 102 ¿Cuenta con afiliación o está cubierto en salud porque...?
+  - Variable: Razón por la que cuenta con salud
+  - Categorías:
+    - No cuenta con una
+    - Está afiliado a un régimen especial
+    - Le descuentan o paga por su cuenta al Seguro Social
+    - Le descuenta o paga por su otra cuenta a otras entidades
+    - Es beneficiario de un empleado o pensionado afiliado a una entidad
+    - El puntaje SISBEN se lo permite
+    - Pertenece a un resguardo indígena
+    - Tiene carta de desplazado
+    - Otra
+- 107: ¿Cuál es la principal razón por la que no está cotizando a un fondo de pensiones?
+  - Variable: Razón por la que no cotiza
+  - Categorías:
+    - Porque ya está pensionado
+    - Porque no trabaja
+    - Porque no quiere o no le interesa
+    - Porque no le alcanza el dinero
+    - Porque no tiene la edad legal para hacerlo
+    - Cotiza a un fondo de pensiones
+    - Otra
+- 109: Por enfermedad, accidente o nacimiento ¿tiene alguna de las siguientes condiciones de forma permanente?
+  - Variables:
+    - Ceguera total
+    - Sordera total
+    - Mudez
+    - Dificultad para moverse o caminar por sí mismo
+    - Dificultad para bañarse, vestirse o alimentarse por sí mismo
+    - Dificultad para salir a la calle sin ayuda o compañía
+    - Dificultad para entender o aprender
+  - Categorías: Sí/No
+- 404 ¿Hace cuánto tiempo dejó de estudiar?
+  - Variables: Tiempo sin estudiar
+  - Categorías: 
+    - Menos de tres años
+    - Más de tres años
+    - Nunca ha estudiado
+- 405: ¿Cuál es la principal razón por la que no estudia o dejó de estudiar?
+  - Variable: Razón principal 
+  - Categorías:
+    - Terminó su ciclo educativo
+    - No requiere estudiar más
+    - Falta de dinero
+    - Falta de cupos
+    - No existe centro educativo cercano o el establecimiento asignado es muy lejano
+    - Necesita trabajar
+    - Debe encargarse de labores domésticas y/o del cuidado de los niños, ancianos o discapacitados
+    - Cambio de residencia
+    - Porque tuvo hijos, embarazo o se casó
+    - Por enfermedad
+    - Necesita educación especial
+    - Por causa del conflicto armado
+    - Por inseguridad en la vereda (en la zona)
+    - Por desastre natural
+    - Por falta de apoyo de los padres o por descuido
+    - Otra
+
+- 503: ¿Es su trabajo actual, su primer trabajo?
+  - Variables: Es su primer trabajo
+  - Categorías: Sí/No
+- 506: ¿A qué sector económico pertenece esta actividad?
+  - Variable: Sector económico
+  - Categorías:
+	  - Agricultura, ganadería, caza, silvicultura y pesca
+	  - Explotación de minas y canteras
+	  - Industrias manufactureras
+	  - Suministro de electricidad, gas, vapor y aire acondicionado
+	  - Distribución de agua; evacuación y tratamiento de aguas residuales, gestión de desechos y actividades de saneamiento ambiental
+	  - Construcción
+	  - Comercio al por mayor y al por menos; reparación de vehículos automotores y motocicletas
+	  - Transporte y almacenamiento
+	  - Alojamiento y servicios de comida
+	  - Información y comunicaciones
+	  - Actividades financieras y seguros
+	  - Actividades inmobiliarias
+	  - Actividades profesionales, científicas y técnicas
+	  - Actividades de servicios administrativos y de apoyo
+	  - Administración pública y defensa; planes de seguridad social, de afiliación obligatoria
+	  - Educación
+	  - Actividades de atención de la salud humana y de asistencia social
+	  - Actividades artísticas, de entretenimiento y recreación
+	  - Otras actividades de servicios
+	  - Actividades de los hogares individuales en calidad de empleadores; actividades no diferenciadas de los hogares individuales ocmo productores de bienes y servicios para uso propio
+	  - Actividades de organizaciones y entidades extraterritoriales
+- 507 ¿En dónde realiza la actividad?
+  - Variable: Lugar en el que realiza la actividad
+  - Categorías: En la casa o finca, fuera de la casa o finca
+- 508: ¿Tiene algún tipo de contrato para realizar este trabajo?
+  - Variable: Tipo de contrato
+  - Categorías: 
+    - Contrato escrito a término fijo
+    - Contrato escrito a término indefinido
+    - Ninguno
+    - Verbal
+- 509: En este trabajo cuenta con ...
+  - Variable: Garantías laborales con las que se cuenta
+  Para la definición de las categorías es necesario recodificar las respuestas según las frecuencias, dado que no son mutuamente excluyentes
+  - Categorías:
+    - Seguridad social en salud
+    - Afiliación a un fondo de pensiones
+    - Vacaciones con sueldo
+    - Derecho a cesantías
+
+- 513: El mes pasado,¿cuánto ganó en este empleo?
+  - Variable: Ganancia obtenida en el empleo
+  - Categorías: Definir según análisis univariado intervalos
+- 514: Además del salario en dinero, el mes pasado recibió como parte de su trabajo...
+  - Variables: Alimentos, vivienda, educación, subsidios o bonos de alimentación, de transporte o de subsidio familiar, ninguna de las anteriores
+  - Categorías: Si, no
+- 519: ¿Cuál es la razón principal por la que tiene este negocio, empresa o desarrolla esta actividad?
+  - Variable: Motivación principal
+  - Categorías:
+    - Para conseguir un ingreso adicional
+    - Por mayor estabilidad o mejor futuro
+    - Porque no pudo conseguir un trabajo como asalariado
+    - Porque quiere ser su propio jefe
+    - Por tradición familiar
+    - Porque lo despidieron del trabajo que tenía
+    - Porque el horario es flexible
+    - Porque tiene mejor ingreso que como asalariado
+- 520: ¿Cuántas horas a la semana labora normalmente en ese trabajo?
+  - Variable: Horas laboradas semanalmente
+  - Categorías: Definir intervalos según medio tiempo, tiempo parcial, etc...
+- 522, 523, 523a: ¿Durante los últimos 12 meses, buscó trabajo como jornalero o peón? ¿Durante los últimos 12 meses, buscó trabajo en otro tipo de trabajo o empleo distito a  jornalero o peón? ¿Es esta la primera vez que busca trabajo?
+  - Variable: Tipo de trabajo que buscó
+  - Categorías:
+    -  Buscó trabajo como jornalero o peón en los últimos 12 veces y era la primera vez que buscaba trabajo
+    - Buscó trabajo como jornalero o peón en los últimos 12 veces y no era la primera vez que buscaba trabajo
+    - Buscó trabajo en algo distinto a jornalero o peón en los últimos 12 veces y era la primera vez que buscaba trabajo
+    - Buscó trabajo en algo distinto a jornalero o peón en los últimos 12 veces y no era la primera vez que buscaba trabajo
+    - No buscó trabajo en ninguna de las dos categorías
+- 524 ¿Durante cuánto tiempo ha estado o estuvo buscando trabajo en otro tipo de trabajo o empleo?
+  - Variable: Tiempo en el que ha estado o estuvo buscando trabajo (meses)
+  - Categorías: Agrupar según análisis univariado
+- 525: ¿Cuál es la razón principal para buscar trabajo en otro tipo de trabajo o empleo?
+  - Variable: Motivación principal para la búsqueda de trabajo
+  - Categorías:
+    - Por insuficiencia de ingresos
+    - Porque tiene mejores perspectivas laborales
+    - Por independencia económica
+    - Porque pagan mejor o es más rentable
+    - Porque no tienen finca o empresa propios
+
