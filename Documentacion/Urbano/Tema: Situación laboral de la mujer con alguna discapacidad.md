@@ -68,6 +68,7 @@ Mujer (2)
 523 - ¿Cuántas horas a la semana trabaja normalmente_____ en su trabajo o empleo de 2 a 5 personas PRINCIPAL?
 
 **Población desocupada**
+
 524 - En las ÚLTIMAS 4 SEMANAS, ¿_____ hizo alguna diligencia para conseguir trabajo o instalar un negocio?
 "Si" (1)
 "No" (2)
