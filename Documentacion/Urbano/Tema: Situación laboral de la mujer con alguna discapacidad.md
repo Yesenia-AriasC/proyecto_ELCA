@@ -1,13 +1,15 @@
-Objetivo: Caracterizar la situación laboral de la mujer en Colombia con algún tipo de discapacidad. 
+### Objetivo:  
+Caracterizar la situación laboral de la mujer en Colombia con algún tipo de discapacidad. 
 Tema :Situación laboral de la mujer con alguna condición de discapacidad en Colombia Urbana.
 
-Procedencia de las variables: Las presentes variables se tomaron de la encuesta ELC relacionada con el formulario Urbano Adultos.
+### Procedencia de las variables:
+Las presentes variables se tomaron de la encuesta ELC relacionada con el formulario Urbano Adultos.
 
-Variables de interés:
+### Variables de interés:
 
-Variables activas
+**Variables activas**
 
-Caracterización general
+**Caracterización general**
 
 
 2 - La persona es:
@@ -39,7 +41,7 @@ Mujer (2)
 405 - ¿Cuál es la principal razón por la que_______actualmente no estudia o dejó de estudiar?
 406 - ¿Cuál es el nivel educativo más alto alcanzado por      y el último grado aprobado en ese nivel?   
 
-Población ocupada
+**Población ocupada**
 
 502a - ¿Es su trabajo actual, su primer trabajo?
 "Si" (1)
@@ -65,8 +67,7 @@ Población ocupada
 
 523 - ¿Cuántas horas a la semana trabaja normalmente_____ en su trabajo o empleo de 2 a 5 personas PRINCIPAL?
 
-
-Población desocupada
+**Población desocupada**
 524 - En las ÚLTIMAS 4 SEMANAS, ¿_____ hizo alguna diligencia para conseguir trabajo o instalar un negocio?
 "Si" (1)
 "No" (2)
@@ -94,7 +95,8 @@ Población desocupada
 538 - ¿Por qué motivo o razón principal________ dejó de trabajar?
 
 
-Variables ilustrativas:
+**Variables ilustrativas:**
+
 101 - Actualmente, ¿_____ está afiliado(a), es cotizante o es beneficiario(a) de alguna entidad de Seguridad Social en Salud?
 "Si"
 "No"
