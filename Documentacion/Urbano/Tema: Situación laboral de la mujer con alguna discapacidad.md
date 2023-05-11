@@ -28,14 +28,6 @@ Mujer (2)
 
 109 - Por enfermedad, accidente o nacimiento, ¿______ tiene alguna de las siguientes condiciones de forma permanente como...?
 
-303 - ¿Cuántos hijos(as) nacidos(as) vivos tiene, o ha tenido__________?
-
-309 - ¿________________ está embarazada actualmente?
-
-402 - ¿___________actualmente estudia? (asiste a la escuela, colegio o universidad)
-
-404 - ¿Hace cuánto tiempo_____dejó de estudiar?
-
 
 **Población ocupada**
 
@@ -98,15 +90,14 @@ Mujer (2)
 
 **Variables ilustrativas:**
 
-101 - Actualmente, ¿_____ está afiliado(a), es cotizante o es beneficiario(a) de alguna entidad de Seguridad Social en Salud?
-"Si"
-"No"
 
-102 - ¿______ cuenta con afiliación o está cubierto(a) en salud porque...?
+303 - ¿Cuántos hijos(as) nacidos(as) vivos tiene, o ha tenido__________?
 
-117 - En la última hospitalización de_____¿cuántos días dejó de asistir a su trabajo, estudio o a realizar sus actividades cotidianas?
+309 - ¿________________ está embarazada actualmente?
 
-311 - ¿________________ planeó su último embarazo?
+402 - ¿___________actualmente estudia? (asiste a la escuela, colegio o universidad)
+
+404 - ¿Hace cuánto tiempo_____dejó de estudiar?
 
 526 - En los ÚLTIMOS 12 MESES, ¿le hicieron a _____alguna(s) oferta(s) de empleo que no aceptó?
 "Si" (1)
