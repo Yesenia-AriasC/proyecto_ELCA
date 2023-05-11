@@ -30,20 +30,17 @@ Mujer (2)
 
 303 - ¿Cuántos hijos(as) nacidos(as) vivos tiene, o ha tenido__________?
 
-304 - 305 Edad de los hijos / Edad de las hijas
-
 309 - ¿________________ está embarazada actualmente?
 
 402 - ¿___________actualmente estudia? (asiste a la escuela, colegio o universidad)
 
 404 - ¿Hace cuánto tiempo_____dejó de estudiar?
 
-405 - ¿Cuál es la principal razón por la que_______actualmente no estudia o dejó de estudiar?
-406 - ¿Cuál es el nivel educativo más alto alcanzado por      y el último grado aprobado en ese nivel?   
 
 **Población ocupada**
 
 502a - ¿Es su trabajo actual, su primer trabajo?
+
 "Si" (1)
 "No" (2)
 
@@ -70,14 +67,17 @@ Mujer (2)
 **Población desocupada**
 
 524 - En las ÚLTIMAS 4 SEMANAS, ¿_____ hizo alguna diligencia para conseguir trabajo o instalar un negocio?
+
 "Si" (1)
 "No" (2)
 
 525 - Durante los ÚLTIMOS 12 MESES, ¿______hizo alguna diligencia para conseguir trabajo o instalar un negocio?
+
 "Si" (1)
 "No" (2)
 
 526a - ¿Es esta la primera vez quebusca trabajo? 
+
 "Si" (1)
 "No" (2)
 
