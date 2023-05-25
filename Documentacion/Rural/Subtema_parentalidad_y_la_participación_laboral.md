@@ -7,8 +7,6 @@
     - Evaluar la relación entre el acceso a permisos parentales remunerados y la situación laboral de mujeres y hombres con hijos/as.
     - Comparar la situación laboral y educativa de mujeres y hombres con hijos/as, y explorar las posibles causas de las diferencias encontradas.
     - Analizar la relación entre la paternidad y la situación laboral de los hombres, y la maternidad y la situación laboral de las mujeres, y explorar cómo estas relaciones difieren entre sí.
-- Control operativo
-- 
 - Variables activas
 - Control operativo
     - Variable:  -  parentesco  
